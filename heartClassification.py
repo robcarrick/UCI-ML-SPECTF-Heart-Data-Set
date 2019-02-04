@@ -1,5 +1,5 @@
 # =============================================================================
-# Replication of the R file Heart.R (Seminar for STAT4401)
+# Binary Classification: Testing a few ML models
 # =============================================================================
 # Import libraries
 import numpy as np
